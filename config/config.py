@@ -40,7 +40,7 @@ UPSTREAM_REPO = getenv(
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
-GIT_TOKEN = getenv("GIT_TOKEN", None)
+GIT_TOKEN = getenv("GIT_TOKEN","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")
 
 SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL", "https://t.me/kakashi_bots_updates")
